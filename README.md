@@ -1,6 +1,5 @@
 Hi 👋 My name is Yula
 =====================
-<img>
 
  About me
 
