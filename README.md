@@ -1,5 +1,4 @@
-Hi 👋 My name is Yula
-=====================
+![Hello](https://github.com/xvayy/xvayy/blob/main/banner.png)
 
  About me
 
