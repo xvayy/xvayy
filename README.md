@@ -1,4 +1,4 @@
-![Hello](https://github.com/xvayy/xvayy/blob/main/banner.png)
+![Hello](https://github.com/xvayy/xvayy/blob/main/banner1.png)
 
  About me
 
