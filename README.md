@@ -2,7 +2,6 @@
 
  About me
 
-* 👨‍💻  I'm a self-taught html/css developer 
 * 🌍  I'm based in Lviv
 * ✉️  You can contact me at [ivanykjula@gmail.com](mailto:ivanykjula@gmail.com)
 
